@@ -22,3 +22,15 @@ $ cd Peergram/
 flutter run
 ``` 
 
+# What's Next?
+ - [ ] Instalon blockchain + Instacoin generation 
+ - [x] Notificaitons for likes, comments, follows, etc
+ - [X] Animations (heart when liking image) 
+ - [ ] Improve Caching of Profiles, Images, Etc.
+ - [ ] Better post creation, add filters to your image
+ - [ ] Custom Camera Implementation
+ - [ ] Firebase Security Rules
+ - [ ] Delete Posts
+ - [ ] Direct Messaging
+ - [ ] Stories
+ - [ ] Clean up code
